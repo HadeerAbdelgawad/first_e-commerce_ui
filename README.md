@@ -16,8 +16,9 @@ This project includes **splash, login, signup, welcome, home, cart, category, ac
 - **Bottom Navigation Bar:** Quick access to Home, Categories, Cart, Orders, and Account.  
 - **Clean UI & Smooth Navigation:** Designed for optimal user experience.  
 
-## Screenshots
+## video
 
+[Flutter UI E-commerce.zip](https://github.com/user-attachments/files/24453337/Flutter.UI.E-commerce.zip)
 
 ## Getting Started
 
@@ -41,6 +42,8 @@ This project includes **splash, login, signup, welcome, home, cart, category, ac
 -**flutter_svg**
 
 ## Project Structure
+
+```text
 lib/
  ├─ main.dart
  ├─ screens/
@@ -57,3 +60,4 @@ lib/
  │   └─ bottom_navbar.dart
  ├─ models/
  └─ resources/
+
