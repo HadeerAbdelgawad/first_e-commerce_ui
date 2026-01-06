@@ -46,18 +46,35 @@ This project includes **splash, login, signup, welcome, home, cart, category, ac
 ```text
 lib/
  ├─ main.dart
- ├─ screens/
- │   ├─ splash_screen.dart
- │   ├─ login_screen.dart
- │   ├─ signup_screen.dart
- │   ├─ welcome_screen.dart
- │   ├─ home_screen.dart
- │   ├─ category_screen.dart
- │   ├─ cart_screen.dart
- │   ├─ account_screen.dart
- │   └─ order_screen.dart
- ├─ widgets/
- │   └─ bottom_navbar.dart
- ├─ models/
- └─ resources/
+ ├─ core/
+ │   └─ resources/
+ │      ├─ app_colors.dart
+ │      ├─ app_field.dart
+ │      ├─ app_images.dart
+ ├─ features/
+ │   └─ homeNav/
+ │      └─ screens/
+ │         └─ Category/
+ │            ├─ category.dart
+ │         └─ Home/
+ │            ├─ HomeScreen.dart
+ │         └─ Profile/
+ │            ├─ profile.dart
+ │         └─ cart/
+ │            ├─ cardView.dart
+ │         └─ orders/
+ │            ├─ view.dart
+ │      ├─ home_nav.dart
+ │   └─ login/
+ │      ├─ app_colors.dart
+ │   └─ signup/
+ │      ├─ app_colors.dart
+ │   └─ splash/
+ │      ├─ app_colors.dart
+ │   └─ welcome/
+ │      ├─ app_colors.dart
+ │   └─ model/
+ │      ├─ app_colors.dart
+ ├─ home_page.dart
+
 
