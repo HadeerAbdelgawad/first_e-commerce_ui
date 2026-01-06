@@ -18,7 +18,7 @@ This project includes **splash, login, signup, welcome, home, cart, category, ac
 
 ## video
 
-[Flutter UI E-commerce.zip](https://github.com/user-attachments/files/24453337/Flutter.UI.E-commerce.zip)
+https://github.com/user-attachments/assets/3b1fbf89-7f61-482a-89ea-a36b50d60bb6
 
 ## Getting Started
 
