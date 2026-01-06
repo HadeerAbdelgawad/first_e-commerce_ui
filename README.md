@@ -18,10 +18,42 @@ This project includes **splash, login, signup, welcome, home, cart, category, ac
 
 ## Screenshots
 
-*Add screenshots here to showcase your UI design.*
 
 ## Getting Started
 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/flutter-ecommerce-ui.git
+
+2. **Navigate to the project directory:**
+    ```bash
+    cd flutter-ecommerce-ui
+3.  **Install dependencies:**
+    ```bash
+    flutter pub get
+4.  **Run the app:**
+    ```bash
+    flutter run
+
+## Dependencies
+
+-**Flutter SDK**
+-**flutter_svg**
+
+## Project Structure
+lib/
+ ├─ main.dart
+ ├─ screens/
+ │   ├─ splash_screen.dart
+ │   ├─ login_screen.dart
+ │   ├─ signup_screen.dart
+ │   ├─ welcome_screen.dart
+ │   ├─ home_screen.dart
+ │   ├─ category_screen.dart
+ │   ├─ cart_screen.dart
+ │   ├─ account_screen.dart
+ │   └─ order_screen.dart
+ ├─ widgets/
+ │   └─ bottom_navbar.dart
+ ├─ models/
+ └─ resources/
